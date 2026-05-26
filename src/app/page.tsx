@@ -1,5 +1,6 @@
 import Clock from "@/components/shadcnui/Clock";
 import type { Metadata } from "next/dist/lib/metadata/types/metadata-interface";
+
 export const metadata: Metadata = {
   title: "Digital Clock App",
   description: "Digital Clock App",
